@@ -14,12 +14,14 @@ public class Calculator implements SimpleCalculator
     }
 
     public double mul(double first, double second){
-        return solution = first * second;
+        return 
+        solution = first * second;
         System.out.println("Print solution: " + solution );
     }
 
     public double div(double first, double second){
-        return solution = first / second;
+        return       
+        solutionssolution = first / second;
         System.out.println("Print solution: " + solution );
     }
 
