@@ -22,9 +22,8 @@ public class Calculator implements SimpleCalculator
         double x = in.nextDouble();
         double add = 1;
         double sub = 2;
-        double mul= 3;
+        double mul = 3;
         double div = 4 ;
-        double power = 5;
 
             public double add(double a, double b){
                 x = add;
